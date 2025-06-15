@@ -1,1 +1,1 @@
-My first AI Project that i developed from scratch suing numpy and pillow.
+My first AI Project that i developed from scratch using numpy and pillow.
