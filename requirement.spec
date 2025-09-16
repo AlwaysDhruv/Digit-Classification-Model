@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['CNN.py'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[],
